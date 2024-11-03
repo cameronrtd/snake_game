@@ -5,11 +5,11 @@ The game is simple. You start out as a small snake. Dots will appear on the scre
 The hungry snake that you are will eat as much food as you can, growing a little with every bite, until eventually
 you grow so large that it becomes impossible to not bumb into yourself!
 
-## Rules: 
+### Rules: 
 1) No touching the sides. Touch the sides and you die.
 2) No touching yourself (hehe). Touch yourself and -you guessed it -you die.
 
-## Controls:
+### Controls:
 To move up and down, left and right, simply use the direction (arrow) keys on your keyboard.
 
 ### Technical Functionality:
