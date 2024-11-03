@@ -11,3 +11,8 @@ Rules:
 
 Controls:
 To move up and down, left and right, simply use the direction (arrow) keys on your keyboard.
+
+Technical Functionality:
+Run the programme from main.py. With object-oriented programming (OOP), main.py creates objects from classes defined in the other python files, food.py, scoreboard.py, and snake.py. So long as you have all files saved in the same folder, the programme should run smoothly. Simply open main.py and execute the code. 
+
+Have fun!
